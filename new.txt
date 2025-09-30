@@ -1,1 +1,2 @@
 something wrong
+error 404
